@@ -18,7 +18,7 @@ This project provides a Python script to extract tables from a PDF file and save
 
 Ensure you have the required dependencies installed:
 
-` pip install pdfplumber pandas openpyxl`
+` pip install pdfplumber pandas `
 
 ## Usage
 
